@@ -1,1 +1,1 @@
-# study-plan
+# study-plan (SDU edition)
